@@ -16,4 +16,4 @@ D:\dotNet\Testing\MyProductsApp\MyProductsApp\obj\Debug\net6.0\ref\MyProductsApp
 D:\dotNet\Testing\MyProductsApp\MyProductsApp\bin\Debug\net6.0\ProductsLibrary.dll
 D:\dotNet\Testing\MyProductsApp\MyProductsApp\bin\Debug\net6.0\ProductsLibrary.pdb
 D:\dotNet\Testing\MyProductsApp\MyProductsApp\obj\Debug\net6.0\MyProductsApp.csproj.AssemblyReference.cache
-D:\dotNet\Testing\MyProductsApp\MyProductsApp\obj\Debug\net6.0\MyProductsApp.csproj.CopyComplete
+D:\dotNet\Testing\MyProductsApp\MyProductsApp\obj\Debug\net6.0\MyProduc.A7926169.Up2Date
